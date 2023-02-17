@@ -2,7 +2,7 @@
 
 
 /**
- * main - prints the size of various typesa based on 
+ * main - prints the size of various typesa based on
  * the computer it is compiled and return on. .
  * Return: Always 0
  */
