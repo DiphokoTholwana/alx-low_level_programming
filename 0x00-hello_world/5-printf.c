@@ -3,8 +3,7 @@
 
 /**
  * main - prints "with proper grammar, but the 
- * outcome is a piece of art," followed by the 
- * new line.
+ * outcome is a piece of art," followed by the new line.
  * Return: Always 0.
  */
 
